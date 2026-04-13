@@ -6,10 +6,10 @@
 
 Este projeto é uma aplicação de Business Intelligence (BI) completa, desenvolvida para transformar dados brutos de vendas em insights visuais acionáveis. Através de uma interface intuitiva, é possível analisar métricas de receita, volume de vendas e performance de vendedores por região e período.
 
-## 🔗 Links Úteis
+##  Links Úteis
 - **Acesse o Dashboard:** [Clique aqui para testar o App](https://dashboardvendas-2kxqfmzxppyehsffoqlpjl.streamlit.app/)
 
-## 🧪 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - **Análise Multidimensional:** Três abas principais focadas em Receita, Quantidade e Vendedores.
 - **Filtros Dinâmicos:** Filtre por Região, Ano e Vendedores específicos com atualização em tempo real de todos os gráficos.
@@ -25,7 +25,7 @@ Este projeto é uma aplicação de Business Intelligence (BI) completa, desenvol
 - **Visualização de Dados:** Plotly Express (Gráficos interativos)
 - **Integração:** Requests (Consumo de API de dados de vendas)
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
 - `Dashboard.py`: Página principal (Dashboard de Vendas).
 - `pages/`: Contém a página de Dados Brutos (Multipage App).
