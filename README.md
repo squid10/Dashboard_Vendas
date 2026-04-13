@@ -7,7 +7,7 @@
 Este projeto é uma aplicação de Business Intelligence (BI) completa, desenvolvida para transformar dados brutos de vendas em insights visuais acionáveis. Através de uma interface intuitiva, é possível analisar métricas de receita, volume de vendas e performance de vendedores por região e período.
 
 ##  Links Úteis
-- **Acesse o Dashboard:** [Clique aqui para testar o App](https://dashboardvendas-2kxqfmzxppyehsffoqlpjl.streamlit.app/)
+- **Acesse o Dashboard:** [Clique aqui para testar o App](https://dashboard-vendas-lit.streamlit.app/)
 
 ##  Funcionalidades Principais
 
