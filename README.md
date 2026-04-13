@@ -33,4 +33,4 @@ Este projeto é uma aplicação de Business Intelligence (BI) completa, desenvol
 - `.streamlit/`: Configurações de tema e layout.
 
 ---
-Desenvolvido por [Seu Nome] durante a formação de Data Science.
+Desenvolvido por Ângelo da Silva Rosa durante a formação de Data Science.
