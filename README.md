@@ -17,7 +17,7 @@ Este projeto é uma aplicação de Business Intelligence (BI) completa, desenvol
 - **Exportação de Dados:** Aba dedicada para visualização de dados brutos com filtros personalizados e funcionalidade de download em `.csv`.
 - **Interface Responsiva:** Design que se adapta a diferentes tamanhos de tela.
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 
 - **Linguagem:** Python 3.x
 - **Framework Web:** Streamlit (Criação de Web Apps para Data Science)
